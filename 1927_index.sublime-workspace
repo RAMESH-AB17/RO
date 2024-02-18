@@ -1,0 +1,305 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/hp/Pictures/project/project.java",
+			"settings":
+			{
+				"buffer_size": 2490,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/hp/Desktop/1927/1927_index.html",
+		"/C/Users/hp/Desktop/1927/style.css",
+		"/C/Users/hp/Desktop/1927/script.js",
+		"/C/Users/hp/Desktop/1927/about us.html",
+		"/C/Users/hp/Desktop/index.html/index.html",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/about1.html",
+		"/C/Users/hp/Desktop/1927/#385 coin-price.zip",
+		"/C/Users/hp/OneDrive/Desktop/#385 coin-price.zip",
+		"/C/Users/hp/Downloads/localbitcoinplusplus-master.zip",
+		"/C/Users/hp/OneDrive/Desktop/project/style.css",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/home1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/index.html",
+		"/C/Program Files/Sublime Text 3/m.html",
+		"/C/Program Files/Sublime Text 3/script.js",
+		"/C/Program Files/Sublime Text 3/style50.css",
+		"/C/Program Files/Sublime Text 3/scriptm.js",
+		"/C/Program Files/Sublime Text 3/stylem.css",
+		"/C/Program Files/Sublime Text 3/major project.html",
+		"/C/Program Files/Sublime Text 3/style48.css",
+		"/C/Users/hp/Desktop/index.html/script.js",
+		"/C/Users/hp/Desktop/index.html/style46.css",
+		"/C/Users/hp/Desktop/index.html/major project.html",
+		"/C/Users/hp/Desktop/index.html/ramesh mini project.html",
+		"/C/Program Files/Sublime Text 3/ramesh mini project.html",
+		"/C/Users/hp/Desktop/index.html/style45.css",
+		"/C/Users/hp/Desktop/index.html/contact1.html",
+		"/C/Users/hp/Desktop/index.html/style17.css",
+		"/C/Program Files/Sublime Text 3/style45.jpg",
+		"/C/Users/hp/Desktop/index.html/style15.css",
+		"/C/Users/hp/Desktop/index.html/style20.css",
+		"/C/Users/hp/Desktop/index.html/about1.html",
+		"/C/Users/hp/Desktop/index.html/style11.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style2.css",
+		"/C/Users/hp/OneDrive/Desktop/project/contact.html",
+		"/C/Users/hp/OneDrive/Desktop/project/gallery.html",
+		"/C/Users/hp/OneDrive/Desktop/project/about.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style3.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style4.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style5.css",
+		"/C/Users/hp/OneDrive/Desktop/project/home.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style6.css",
+		"/C/Users/hp/OneDrive/Desktop/project/learn more.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style1.css",
+		"/C/Users/hp/OneDrive/Desktop/project/services.html",
+		"/C/Users/hp/OneDrive/Desktop/project/Register.html",
+		"/C/Users/hp/OneDrive/Desktop/project/login.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style8.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style7.css",
+		"/C/Users/hp/OneDrive/Desktop/project/about1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/learn more1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style15.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style13.css",
+		"/C/Users/hp/OneDrive/Desktop/project/style14.css",
+		"/C/Users/hp/OneDrive/Desktop/project/services1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style11.css",
+		"/C/Users/hp/OneDrive/Desktop/project/login1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/register1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/workers.html",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/register1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style20.css",
+		"/C/Users/hp/OneDrive/Desktop/project/Event coordinator,html.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style19.css",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/contact1.html",
+		"/C/Users/hp/Desktop/index.html/gallery1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/style17.css",
+		"/C/Users/hp/OneDrive/Desktop/project/project2/style16.css",
+		"/C/Users/hp/OneDrive/Desktop/project/gallery1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/workers.html",
+		"/C/Users/hp/OneDrive/Desktop/project/XL.html",
+		"/C/Users/hp/OneDrive/Desktop/project/home1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style17.css",
+		"/C/Users/hp/OneDrive/Desktop/project/contact1.html",
+		"/C/Users/hp/OneDrive/Desktop/project/style16.css",
+		"/C/Users/hp/Desktop/hosting/AQUILA TECH SOLN/EVENT COORDINATOR.HTML",
+		"/C/Users/hp/OneDrive/Desktop/project/STYLE11.CSS",
+		"/C/Users/hp/OneDrive/Desktop/project/EVENT COORDINATOR.HTML",
+		"/C/Users/hp/OneDrive/Desktop/project/1.jpg.jpg",
+		"/C/Users/hp/OneDrive/Desktop/project/2.jpg.jpg",
+		"/C/Users/hp/OneDrive/Desktop/project/4.jpg.jpg",
+		"/C/Users/hp/OneDrive/Desktop/project/3.jpg.jpg",
+		"/C/Users/hp/OneDrive/Documents/about.html",
+		"/C/Users/hp/Desktop/style.css",
+		"/C/Users/hp/Desktop/index.html",
+		"/C/Users/hp/Desktop/aquila.html",
+		"/C/Users/hp/OneDrive/Pictures/Screenshots/2021-07-07 (1).png",
+		"/C/Program Files/Sublime Text 3/index",
+		"/C/Users/hp/OneDrive/Pictures/ramesh",
+		"/C/Users/hp/Desktop/project/index.html",
+		"/C/Users/hp/Desktop/project/style.css",
+		"/C/Users/hp/Desktop/project/ss.jpg",
+		"/C/Users/hp/Desktop/project/project.java",
+		"/C/Users/hp/Downloads/500 ST Images Workload/500 ST Images Workload/4001.JPEG",
+		"/C/Program Files/Sublime Text 3/python33.dll",
+		"/C/Users/hp/Desktop/leo/index.html",
+		"/C/Users/hp/Desktop/Eagle_Hero.width-2000.jpg"
+	],
+	"find":
+	{
+		"height": 27.3333333333
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/hp/Pictures/project/project.java",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2490,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Java/Java.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1433.33333333,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.3333333333
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "1927_index.sublime-project",
+	"replace":
+	{
+		"height": 50.6666666667
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\hp\\OneDrive\\Desktop\\project\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 179.333333333,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 516.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 50.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
